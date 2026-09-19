@@ -17,7 +17,7 @@ The integration supports bidirectional communication:
 
 Documentation:
 
-- `arteco/miniPLC/manual-miniplc-arteco.pdf`
+- `arteco/miniplc/manual-miniplc-arteco.pdf`
 
 ## STRATAON Integration Resources
 
